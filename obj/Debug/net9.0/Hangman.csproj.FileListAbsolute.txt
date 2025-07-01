@@ -1,0 +1,14 @@
+/Users/andrej/Documents/C#/Hangman/bin/Debug/net9.0/Hangman
+/Users/andrej/Documents/C#/Hangman/bin/Debug/net9.0/Hangman.deps.json
+/Users/andrej/Documents/C#/Hangman/bin/Debug/net9.0/Hangman.runtimeconfig.json
+/Users/andrej/Documents/C#/Hangman/bin/Debug/net9.0/Hangman.dll
+/Users/andrej/Documents/C#/Hangman/bin/Debug/net9.0/Hangman.pdb
+/Users/andrej/Documents/C#/Hangman/obj/Debug/net9.0/Hangman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrej/Documents/C#/Hangman/obj/Debug/net9.0/Hangman.AssemblyInfoInputs.cache
+/Users/andrej/Documents/C#/Hangman/obj/Debug/net9.0/Hangman.AssemblyInfo.cs
+/Users/andrej/Documents/C#/Hangman/obj/Debug/net9.0/Hangman.csproj.CoreCompileInputs.cache
+/Users/andrej/Documents/C#/Hangman/obj/Debug/net9.0/Hangman.dll
+/Users/andrej/Documents/C#/Hangman/obj/Debug/net9.0/refint/Hangman.dll
+/Users/andrej/Documents/C#/Hangman/obj/Debug/net9.0/Hangman.pdb
+/Users/andrej/Documents/C#/Hangman/obj/Debug/net9.0/Hangman.genruntimeconfig.cache
+/Users/andrej/Documents/C#/Hangman/obj/Debug/net9.0/ref/Hangman.dll
